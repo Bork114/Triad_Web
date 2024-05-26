@@ -29,9 +29,9 @@ publish: "true"
 > |Realm |`=this.Realm` |
 > | Alternative Name | `= this.Alias`|
 # `= this.Name`
-The Aevi Sphere was created by the [Titan of Time] to establish a sense of passage in Desyia as a whole. Aevi is populated by Aasimar, the chosen of Time himself to watch over the flow of time. It is a place of the never ending loop.
+The Aevi Sphere was created by the [[content/Triad/Triad/Multiverse/Titan of Time/Titan Lore/Titan of Time|Titan of Time]] to establish a sense of passage in Desyia as a whole. Aevi is populated by Aasimar, the chosen of Time himself to watch over the flow of time. It is a place of the never ending loop.
 # History
-In the creation of Triad, Aevi was created by The [Titan of Time]. This [Sphere] is one of the  [[anchor points]] of the [[Multiverse]]. 
+In the creation of Triad, Aevi was created by The [[content/Triad/Triad/Multiverse/Titan of Time/Titan Lore/Titan of Time|Titan of Time]]. This [Sphere] is one of the  [[anchor points]] of the [[Multiverse]]. 
 
 # Domain
 

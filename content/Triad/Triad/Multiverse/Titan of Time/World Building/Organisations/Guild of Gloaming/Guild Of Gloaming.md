@@ -24,10 +24,10 @@ fc-calendar: Hjol
 species:
   - "[[../../Races/Timaeth.md]]"
 statblock: inline
-image: "[[../../../../../../../_Database/Pictures/GuildOfGloaming_Logo.png]]"
+publish: "true"
 ---
 > [!infobox]
-> ![[../../../../../../../_Database/Pictures/GuildOfGloaming_Logo.png]]
+> ![[public/Triad/_Database/Pictures/GuildOfGloaming_Logo.png]]
 > # `= this.file.name`
 > | Founder | `= this.Founder` |
 > | ---- | ---- |
@@ -37,11 +37,11 @@ image: "[[../../../../../../../_Database/Pictures/GuildOfGloaming_Logo.png]]"
 > | Active Years | `$= FantasyCalendarAPI.getCalendars()[0].current.year - String(dv.current()["fc-date"]).slice(0,4);` years active|
 > | Territory | `= this.Territory`|
 # `= this.Name`
-The Guild of Gloaming, entrusted with the guardianship of knowledge, not only tends to the [[../../../Aevi Sphere/Places/Cities/Chrona Spire/Garden House.md]] but also oversees various Isles dedicated to cataloguing the lore of every sphere, including that of [[../../../Aevi Sphere/Places/Aevi Sphere.md|Aevi]]. Within the [[../../../Aevi Sphere/Places/Aevi Sphere.md]], they are revered as the esteemed Lorekeepers.
+The Guild of Gloaming, entrusted with the guardianship of knowledge, not only tends to the [[Garden House]] but also oversees various Isles dedicated to cataloguing the lore of every sphere, including that of [[../../../Aevi Sphere/Places/Aevi Sphere.md|Aevi]]. Within the [[Aevi Sphere]], they are revered as the esteemed Lorekeepers.
 # History
 # Responsibilities 
 
-The Sages are entrusted with the guardianship of knowledge, whether in the form of ancient artifacts or the reading of [[../../../Aevi Sphere/Sphere Building/Ley Lines.md]]. Their primary duty is to maintain a comprehensive archive documenting the past, present, and future.
+The Sages are entrusted with the guardianship of knowledge, whether in the form of ancient artifacts or the reading of [[Aevi Sphere]]. Their primary duty is to maintain a comprehensive archive documenting the past, present, and future.
 
 To manage this vast array of information, the Sages are organized into five factions, each with its own responsibilities and areas of focus.
 
