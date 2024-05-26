@@ -17,7 +17,7 @@ species:
   - "[[Species]]"
 statblock: inline
 image: "[[Emblem.jpg]]"
-publish: "true"
+publish: "false"
 ---
 > [!infobox]
 > ![[Emblem.jpg]]

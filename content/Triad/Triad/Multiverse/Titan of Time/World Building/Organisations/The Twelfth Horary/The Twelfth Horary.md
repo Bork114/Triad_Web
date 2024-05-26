@@ -36,14 +36,14 @@ publish: "true"
 > | Territory | `= this.Territory` |
 # `= this.Name`
 
-The Twelfth Horary is a military force responsible for eradicating [[Time Rifts]] and addressing their origins. They also serve as the vigilant guardians of [[Aevi]], with those entrusted with this duty being part of [[The Shirdals.md]].
+The Twelfth Horary is a military force responsible for eradicating [[Time Rifts]] and addressing their origins. They also serve as the vigilant guardians of [[Aevi]], with those entrusted with this duty being part of [[The Shirdals]].
 # History
 # Responsibilities 
 
-Knights are entrusted with the noble duty of upholding balance and peace across every sphere. To shoulder this weighty responsibility more effectively, the Knights are organized into two distinct strike forces. [[The Clandestine]] specialize in neutralizing [[../../../Aevi Sphere/Sphere Building/Time Rift.md]]s and addressing their root causes if necessary, while [[The Shirdals.md]] are dedicated to maintaining peace within [[../../../Aevi Sphere/Places/Aevi Sphere.md]] and aiding [[../Guild of Gloaming/Sages of Navigation.md]] with potential [[../../../Aevi Sphere/Sphere Building/Time Rift.md]].
+Knights are entrusted with the noble duty of upholding balance and peace across every sphere. To shoulder this weighty responsibility more effectively, the Knights are organized into two distinct strike forces. [[The Clandestine]] specialize in neutralizing [[../../../Aevi Sphere/Sphere Building/Time Rift|Time Rift]]s and addressing their root causes if necessary, while [[The Shirdals]] are dedicated to maintaining peace within [[../../../Aevi Sphere/Places/Aevi Sphere|Aevi Sphere]]  and aiding [[../Guild of Gloaming/Sages of Navigation|Sages of Navigation]] with potential [[../../../Aevi Sphere/Sphere Building/Time Rift|Time Rift]].
 # Worship
 
-[[../../NPC's/The First Keepers/Meridian.md]]'s guidance has led many [[../../Races/Timaeth.md]] to find the courage in battle against  [[../../../Aevi Sphere/Sphere Building/Time Rift.md]] [[Anomolies]]. Said to have risen out of fire
+[[../../NPC's/The First Keepers/Meridian|Meridian]]'s guidance has led many [[../../Races/Timaeth|Timaeth]] to find the courage in battle against  [[../../../Aevi Sphere/Sphere Building/Time Rift|Time Rift]] [[Anomolies]]. Said to have risen out of fire
 # Influence
 # Connections
 

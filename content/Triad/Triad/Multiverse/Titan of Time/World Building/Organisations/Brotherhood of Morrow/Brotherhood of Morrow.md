@@ -1,5 +1,5 @@
 ---
-Name:
+title:
   - Brotherhood of Morrow
 Domain: "[[../../../Titan Lore/Titan of Time.md]]"
 Alternative_Names:
@@ -26,8 +26,8 @@ aliases:
   - Weaver
 ---
 > [!infobox]
-> ![[../../../../../../../_Database/Pictures/Brotherhood_Logo.png]]
-> # `= this.file.name`
+> ![[../../../../../../_Database/Pictures/Brotherhood_Logo.png]]
+> # `=this.title`
 > | Founder | `= this.Founder` |
 > | ---- | ---- |
 > | Current Leader | `= this.Leader` |
