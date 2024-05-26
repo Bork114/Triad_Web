@@ -11,7 +11,7 @@ Realm: "[[Cosmic Sea]]"
 Primary Race: "[[../../../World Building/Races/Timaeth]]"
 fc-calendar: Hjol
 image: SphereEmblem.jpg
-publish: "true"
+publish: "false"
 ---
 > [!infobox]
 > ![[SphereEmblem.jpg]]
