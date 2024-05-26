@@ -24,6 +24,7 @@ aliases:
   - The Brotherhood
   - The Weavers
   - Weaver
+publish: "true"
 ---
 > [!infobox]
 > ![[../../../../../../_Database/Pictures/Brotherhood_Logo.png]]
