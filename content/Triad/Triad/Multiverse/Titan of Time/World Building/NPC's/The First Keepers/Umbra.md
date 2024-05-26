@@ -27,4 +27,4 @@ image: "![[Person.jpg]]"
 # Personality
 # History
 # Connections
-<% tp.config.target_file %>
+[object Object]

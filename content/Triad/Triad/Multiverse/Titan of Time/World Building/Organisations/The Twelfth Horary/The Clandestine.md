@@ -36,4 +36,4 @@ publish: "false"
 # Worship
 # Influence
 # Connections
-%%<%tp.config.target_file%>%%
+%%[object Object]%%

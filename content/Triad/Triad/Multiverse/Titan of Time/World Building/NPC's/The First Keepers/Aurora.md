@@ -29,4 +29,4 @@ image: "![[Person.jpg]]"
 # Connections
 
 
-%% <% tp.config.target_file%>%%
+%% [object Object]%%

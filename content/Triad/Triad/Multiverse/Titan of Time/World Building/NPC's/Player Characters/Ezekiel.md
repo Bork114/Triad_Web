@@ -47,4 +47,4 @@ Charactersheet: https://docs.google.com/spreadsheets/d/1LQkemtzOkugllk6hD9Lt-9Nf
 
 
 
-%%<%tp.config.target_file%>%%
+%%[object Object]%%

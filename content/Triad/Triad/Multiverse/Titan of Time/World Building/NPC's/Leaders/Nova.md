@@ -28,4 +28,4 @@ image: "![[Person.jpg]]"
 # History
 # Connections
 
-%% <%tp.config.target_file%>%%
+%% [object Object]%%

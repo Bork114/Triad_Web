@@ -31,4 +31,4 @@ image: "![[../../../../_Database/Pictures/peter-mohrbacher-zachriel-last-witness
 # History
 # Connections
 
-%%<% tp.config.target_file%>%%
+%%[object Object]%%

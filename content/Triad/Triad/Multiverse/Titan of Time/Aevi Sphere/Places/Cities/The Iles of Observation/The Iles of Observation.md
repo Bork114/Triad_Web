@@ -30,4 +30,4 @@ LIST
 # Influence
 # Timeline
 
-<% tp.config.target_file %>
+[object Object]

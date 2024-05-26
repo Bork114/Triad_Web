@@ -41,4 +41,4 @@ fc-date: 4319-4-1
 
 # Combat
 
-%%<% tp.config.target_file %>%%
+%%[object Object]%%

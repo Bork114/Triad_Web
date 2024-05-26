@@ -28,4 +28,4 @@ LIST
 - `=this.Factions[0]`
 # Timeline
 
-%%<%tp.config.target_file%>%%
+%%[object Object]%%

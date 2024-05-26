@@ -50,4 +50,4 @@ Said to be one of the first Keepers created by [[../../../Titan Lore/Titan of Ti
 # Connections
 
 
-%% <% tp.config.target_file %>%%
+%% [object Object]%%

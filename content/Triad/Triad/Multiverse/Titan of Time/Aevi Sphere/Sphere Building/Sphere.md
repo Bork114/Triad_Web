@@ -9,4 +9,4 @@ tags:
 *Short descriptor of the Sphere*
 # General Information
 
-%%<%tp.config.target_file%>%%
+%%[object Object]%%

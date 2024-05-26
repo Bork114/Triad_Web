@@ -49,4 +49,4 @@ Creation of new powerful leylines, and multiple leylines at the same time withou
 
 %%[object Object]%%
 
-%% <% tp.config.target_file %>%%
+%% [object Object]%%

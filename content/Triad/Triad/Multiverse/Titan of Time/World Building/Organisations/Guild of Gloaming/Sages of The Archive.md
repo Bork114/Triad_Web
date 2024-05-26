@@ -34,4 +34,4 @@ publish: "true"
 # Influence
 # Connections
 
-%%<%tp.config.target_file%>%%
+%%[object Object]%%

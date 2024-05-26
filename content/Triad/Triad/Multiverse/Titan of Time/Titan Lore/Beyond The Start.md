@@ -18,4 +18,4 @@ Beyond the Start has influence over the:
 - Necromancy
 
 
-<%tp.config.target_file%>
+[object Object]

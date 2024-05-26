@@ -9,4 +9,4 @@ tags:
 
 # General Information
 
-%%<%tp.config.target_file%>%%
+%%[object Object]%%
