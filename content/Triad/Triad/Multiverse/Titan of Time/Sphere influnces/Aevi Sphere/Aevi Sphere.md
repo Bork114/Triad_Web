@@ -8,13 +8,6 @@ tags:
   - Sphere
 Domain: "[[../../_Titan Lore/Titan of Time]]"
 Realm: "[[Cosmic Sea]]"
-Ruler:
-  - "[[World Building/NPC's/Leaders/Kenna Skra]]"
-Factions:
-  - "[[World Building/Organisations/Brotherhood of Morrow/Brotherhood of Morrow]]"
-  - "[[World Building/Organisations/The Twelfth Horary/The Twelfth Horary]]"
-  - "[[World Building/Organisations/Guild of Gloaming/Guild Of Gloaming]]"
-  - "[[World Building/Organisations/Sisterhood of The Crescent-Moon/Sisterhood of the Crescent-Moon]]"
 Primary Race: "[[../../../World Building/Races/Timaeth]]"
 fc-calendar: Hjol
 image: SphereEmblem.jpg
@@ -27,7 +20,7 @@ publish: "true"
 > | ---- | ---- |
 > | Domain | [[../../_Titan Lore/Titan of Time|Titan of Time]] |
 > |Realm | [[Cosmic Sea]] |
-> |Race (s) | [[World Building/Races/Timaeth|Timaeth]] |
+> |Race(s) | [[World Building/Races/Timaeth|Timaeth]] |
 > | Alternative Name | World of the Endless, Aevi|
 # Aevi Sphere
 The Aevi Sphere was created by the [[../../_Titan Lore/Titan of Time|Titan of Time]] to establish a sense of passage in Triad as a whole. Aevi is populated by [[World Building/Races/Timaeth|Timaeth]] , the chosen of Time himself to watch over the flow of time. It is a place of the never ending loop.
