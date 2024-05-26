@@ -18,6 +18,7 @@ species:
   - "[[../../Races/Timaeth.md]]"
 statblock: inline
 image: "[[Emblem.jpg]]"
+publish: "true"
 ---
 > [!infobox]
 > ![[Emblem.jpg]]

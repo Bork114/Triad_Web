@@ -20,6 +20,7 @@ species:
   - "[[Species]]"
 statblock: inline
 image: "[[../../../../../../../_Database/Pictures/Sisterhood_Logo.png]]"
+publish: "true"
 ---
 > [!infobox]
 > ![[../../../../../../../_Database/Pictures/Sisterhood_Logo.png]]

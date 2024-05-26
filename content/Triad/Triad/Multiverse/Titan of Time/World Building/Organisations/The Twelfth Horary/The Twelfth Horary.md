@@ -22,13 +22,14 @@ species:
   - "[[../../Races/Timaeth.md]]"
 statblock: inline
 image: "[[../../../../../../../_Database/Pictures/TheTwelfthHorary_Logo.png]]"
+publish: "true"
 ---
 > [!infobox]
-> ![[../../../../../../../_Database/Pictures/TheTwelfthHorary_Logo.png]]
+> ![[../../../../../../_Database/Pictures/TheTwelfthHorary_Logo.png]]
 > # `=this.file.name`
-> | Founder | `= this.Founder` |
+> | Founder | [[[../../NPC's/The First Keepers/Meridian|Meridian]]] |
 > | ----|---- |
-> | Current Leader | `= this.Leader`
+> | Current Leader | [[../../NPC's/Leaders/Nova|Nova]] |
 > | Alternative Name | `= this.Alternative_Names`|
 > | Founding Date | `$= String(dv.current()["fc-date"])` |
 > | Active Years | `$= FantasyCalendarAPI.getCalendars()[0].current.year - String(dv.current()["fc-date"]).slice(0,4);` years active|
@@ -39,7 +40,7 @@ The Twelfth Horary is a military force responsible for eradicating [[Time Rifts]
 # History
 # Responsibilities 
 
-Knights are entrusted with the noble duty of upholding balance and peace across every sphere. To shoulder this weighty responsibility more effectively, the Knights are organized into two distinct strike forces. [[The Clandestine.md]] specialize in neutralizing [[../../../Aevi Sphere/Sphere Building/Time Rift.md]]s and addressing their root causes if necessary, while [[The Shirdals.md]] are dedicated to maintaining peace within [[../../../Aevi Sphere/Places/Aevi Sphere.md]] and aiding [[../Guild of Gloaming/Sages of Navigation.md]] with potential [[../../../Aevi Sphere/Sphere Building/Time Rift.md]].
+Knights are entrusted with the noble duty of upholding balance and peace across every sphere. To shoulder this weighty responsibility more effectively, the Knights are organized into two distinct strike forces. [[The Clandestine]] specialize in neutralizing [[../../../Aevi Sphere/Sphere Building/Time Rift.md]]s and addressing their root causes if necessary, while [[The Shirdals.md]] are dedicated to maintaining peace within [[../../../Aevi Sphere/Places/Aevi Sphere.md]] and aiding [[../Guild of Gloaming/Sages of Navigation.md]] with potential [[../../../Aevi Sphere/Sphere Building/Time Rift.md]].
 # Worship
 
 [[../../NPC's/The First Keepers/Meridian.md]]'s guidance has led many [[../../Races/Timaeth.md]] to find the courage in battle against  [[../../../Aevi Sphere/Sphere Building/Time Rift.md]] [[Anomolies]]. Said to have risen out of fire
