@@ -29,7 +29,7 @@
 		{"id":"a58e40b42bdcdf1b","type":"file","file":"Triad/Multiverse/Titan of Time/World Building/NPC's/Player NPC's/Pumpernickel.md","x":400,"y":3471,"width":400,"height":400,"color":"4"},
 		{"id":"997810dfea3968a5","type":"file","file":"Triad/Multiverse/Titan of Time/World Building/NPC's/Player NPC's/Avedis Guardian.md","x":-1485,"y":3406,"width":400,"height":400,"color":"4"},
 		{"id":"ff5577dcc9b5e1b1","type":"text","text":"# **Nyja the 6th of Eon: The End of the Cycle**","x":5280,"y":4231,"width":368,"height":160,"color":"1"},
-		{"id":"2e50ee497dbd0920","type":"text","text":"# [[Aevi Sphere|Aevi]] falls","x":6315,"y":4265,"width":605,"height":93,"color":"2"},
+		{"id":"2e50ee497dbd0920","type":"text","text":"# [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/Aevi Sphere|Aevi]] falls","x":6315,"y":4265,"width":605,"height":93,"color":"2"},
 		{"id":"1c8b05fe7b75df9a","type":"text","text":"# Create the first Paradox:\n## Life continues on for the rest of Aevi\n## Players are stuck in a time loop of raising themselves\n## Players ","x":6315,"y":4040,"width":605,"height":191,"color":"2"},
 		{"id":"6a71f03cc2296843","x":6315,"y":4480,"width":605,"height":80,"color":"2","type":"text","text":"# Create Time loop"}
 	],

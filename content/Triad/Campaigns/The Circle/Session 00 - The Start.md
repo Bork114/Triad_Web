@@ -8,7 +8,7 @@ An ever moving garden out golden sand. Patterns are raked into the ground, akin 
 
 During your revelation and wonder the figure seemed to have reached their destination, a chuckle snaps your focus to them. 
 
-"You child, are [[../../Triad/Multiverse/Titan of Time/World Building/Races/Timaeth.md]], just like me. We are the children of Time and as such we are tasked with maintaining it's continues flow. Just as we fulfil our duties, so too shall you. What those task are will be decided by what faction you belong to."
+"You child, are [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/Races/Timaeth]], just like me. We are the children of Time and as such we are tasked with maintaining it's continues flow. Just as we fulfil our duties, so too shall you. What those task are will be decided by what faction you belong to."
 
 "See those four symbols?" ask the figure, pointing to symbols carved in small obelisks, a sun, a crescent-moon, a raven, and lastly a rising Phoenix. Each obelisk is accompanied by a bowl at its base, and a stone path leads to where you currently stand.
 

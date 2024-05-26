@@ -1,6 +1,5 @@
 ---
-Name:
-  - Titan of Chaos
+title: Titan of Chaos
 tags:
   - NPC
   - Titan
@@ -16,16 +15,14 @@ image: "![[../../../../_Database/Pictures/peter-mohrbacher-sathariel-the-fool-sm
 ---
 > [!infobox]
 > ![[../../../../_Database/Pictures/peter-mohrbacher-sathariel-the-fool-sm.jpg]]
-> # `= this.file.name`
-> | Titles | `= this.aliases` |
+> # `= this.title`
+> | Titles | Chaos, The Center, The Testament, The Moment, The Fool |
 > | ---- | ---- |
 > |Art by | [Peter Mohrbacher](https://www.artstation.com/bugmeyer)|
-> | Residence | `= this.residence` |
+> | Residence | [[Beyond The Center]] |
 > | Anchor Sphere| |
 # `= this.Name[0]`
 *Short descriptor of character*
 # Representation
 # History
 # Connections
-
-%%[object Object]%%

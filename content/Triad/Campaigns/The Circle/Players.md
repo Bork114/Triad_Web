@@ -49,29 +49,29 @@ Think about this information when creating your character, so that you have an i
 
 # Stef
 
-**Character Name:** [[../../Triad/Multiverse/Titan of Time/World Building/NPC's/Player Characters/Stef Character.md]]
-**Faction:** [[../../Triad/Multiverse/Titan of Time/World Building/Organisations/Sisterhood of The Crescent-Moon/Sisterhood of the Crescent-Moon.md]]
+**Character Name:** [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/NPC's/Player Characters/Stef Character]]
+**Faction:** [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/Organisations/Sisterhood of The Crescent-Moon/Sisterhood of the Crescent-Moon]]
 **Guardian Name:**
 **Bonds:**
 
 # Shakira
 
 **Character Name:**
-**Faction:** [[../../Triad/Multiverse/Titan of Time/World Building/Organisations/The Twelfth Horary/The Twelfth Horary.md]]
+**Faction:** [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/Organisations/The Twelfth Horary/The Twelfth Horary]]
 **Guardian Name:**
 **Bonds:**
 
 # Avedis
 
-**Character Name:** [[../../Triad/Multiverse/Titan of Time/World Building/NPC's/Player Characters/Avedis Character.md]]
-**Faction:** [[../../Triad/Multiverse/Titan of Time/World Building/Organisations/Brotherhood of Morrow/Brotherhood of Morrow.md|The Brotherhood]]
-**Guardian Name:** [[../../Triad/Multiverse/Titan of Time/World Building/NPC's/Player NPC's/Avedis Guardian.md]]
+**Character Name:** [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/NPC's/Player Characters/Avedis Character]]
+**Faction:** [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/Organisations/Brotherhood of Morrow/Brotherhood of Morrow|The Brotherhood]]
+**Guardian Name:** [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/NPC's/Player NPC's/Avedis Guardian]]
 **Bonds:**
 
 
 # Jasper
 
-**Character Name:** [[../../Triad/Multiverse/Titan of Time/World Building/NPC's/Player Characters/Ezekiel.md]]
-**Faction:** [[../../Triad/Multiverse/Titan of Time/World Building/Organisations/Guild of Gloaming/Guild Of Gloaming.md]]
-**Guardian Name:** [[../../Triad/Multiverse/Titan of Time/World Building/NPC's/Player NPC's/Pumpernickel.md]]
+**Character Name:** [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/NPC's/Player Characters/Ezekiel]]
+**Faction:** [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/Organisations/Guild of Gloaming/Guild Of Gloaming]]
+**Guardian Name:** [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/NPC's/Player NPC's/Pumpernickel]]
 **Bonds:**

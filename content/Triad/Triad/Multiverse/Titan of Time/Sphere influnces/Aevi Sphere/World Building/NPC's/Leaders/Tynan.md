@@ -1,32 +1,30 @@
 ---
-Name: []
+Name:
+  - Tynan
 tags:
-  - Player
-Gender: 
-residence: 
-fc-date: 2160-1-1
+  - NPC
+title: 
+residence: "[[../../../Aevi Sphere|Aevi]]"
+fc-date: 0000-00-00
 fc-category: Birthday
 fc-calendar: Hjol
 species:
-  - "[[../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/Races/Timaeth]]"
+  - "[[Species]]"
 statblock: inline
 image: "![[Person.jpg]]"
-Charactersheet: 
 ---
 > [!infobox]
 > ![[Person.jpg]]
 > # `= this.file.name`
-> | Gender | `= this.Gender` |
+> | Titles | `= this.title` |
 > | ---- | ---- |
 > | Birthday | `$= String(dv.current()["fc-date"])` |
+> | Full name | `= this.Name[1]`|
 > | Age | `$= FantasyCalendarAPI.getCalendars()[0].current.year - String(dv.current()["fc-date"]).slice(0,4);` years old|
 > | Residence | `= this.residence` |
-# `= this.Name[0]`
-*Short Discription*
+# `= this.Name[1]`
+*Short descriptor of character*
 # Personality
 # History
 # Connections
-
-
-
-%%[object Object]%%
+[object Object]

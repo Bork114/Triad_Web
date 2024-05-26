@@ -8,7 +8,7 @@ fc-date: 2160-1-1
 fc-category: Birthday
 fc-calendar: Hjol
 species:
-  - "[[../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/Races/Timaeth]]"
+  - "[[../../Races/Timaeth]]"
 statblock: inline
 image: "![[Person.jpg]]"
 Charactersheet: 
@@ -30,3 +30,4 @@ Charactersheet:
 
 
 %%[object Object]%%
+<%tp.config.target_file tp%>

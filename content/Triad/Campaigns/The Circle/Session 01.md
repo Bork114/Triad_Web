@@ -28,8 +28,8 @@ fc-date: 4319-4-1
 
 # Scenes
 
-- Party and their respective guardians are summoned by [[../../Triad/Multiverse/Titan of Time/World Building/NPC's/Leaders/Kenna Skra|Kenna Skra]] to hand them tasks for the preparations for the end of the first cycle.
-- The party is send to the [[../../Triad/Multiverse/Titan of Time/Aevi Sphere/Places/Cities/Chrona Spire/Buildings/Temple of Time|Temple of Time]] where they are tasked with 
+- Party and their respective guardians are summoned by [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/World Building/NPC's/Leaders/Kenna Skra|Kenna Skra]] to hand them tasks for the preparations for the end of the first cycle.
+- The party is send to the [[../../Triad/Multiverse/Titan of Time/Sphere influnces/Aevi Sphere/_Places/Cities/Chrona Spire/Buildings/Temple of Time|Temple of Time]] where they are tasked with 
 
 # Secrets
 
